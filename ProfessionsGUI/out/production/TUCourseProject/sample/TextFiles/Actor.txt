@@ -1,0 +1,7 @@
+Name: Pesho
+Surname: Peshov
+EGN: 3333333333
+Profession: Actor
+Net worth: 0.0
+Has at least one oscar: false
+

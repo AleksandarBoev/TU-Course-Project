@@ -1,0 +1,7 @@
+Name: Wat wat
+Surname: Nekoi si
+EGN: 222222
+Profession: Actor
+Net worth: 0.0
+Has at least one oscar: false
+
